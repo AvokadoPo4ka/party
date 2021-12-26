@@ -1,0 +1,43 @@
+body {
+    font-family: 'Yuji Hentaigana Akebono', cursive;
+    background-color: #7FD6B7;
+    color: #F00101;
+    margin: 10px;
+}
+
+.about {
+    font-size: 20px;
+}
+
+main {
+    width: 60%;
+    margin: auto;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+
+footer {
+    background-color: black;
+    margin: 150px;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.copyright {
+    font-family: 'Roboto', cursive;
+}
+
+a {
+    text-decoration: none;
+    background-color: #00C75F;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.home {
+    text-align: center;
+}
